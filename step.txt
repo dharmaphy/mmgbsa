@@ -190,7 +190,7 @@ coorfile close
 
 #command to do namd to calculate the solvation energy in the terminal
 #please put .dcd and .pdb files and toppar files ../ (up)folder 
-#namd2 +p10 +idlepoll complex.inp > compl.log
+#namd2 +p10 +idlepoll complex.inp > complex.log
 # ./gbsa_energy.sh 
 
 
